@@ -9,7 +9,7 @@ It is a React and Tailwind CSS-based project that helps you create and showcase 
 
 ## Installation
 ```
-git clone https://github.com/kaanayyildiz/benfolio.git
+git clone https://github.com/ThousifXahamed/Portfolio.git
 
 cd benfolio
 
