@@ -1,0 +1,60 @@
+{
+  "job": "Aspiring Frontend Developer",
+  "name": "Thousif ahamed",
+  "desc": "The traveler of this path, a aspiring web designer.",
+  "aboutDesc": "Driven coder and tech enthusiast, passionate about crafting innovative solutions and tackling new challenges. Eager to leverage my skills and contribute to a dynamic team.",
+  "email": "ahmedthousif42@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://ugc.production.linktr.ee/3c11596f-f70b-4144-9308-44d4249f911e_thousif-resume.pdf",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "Portfolio",
+      "project-desc": "React + Tailwind Portfolio",
+      "project-url" :"https://soul-ott.vercel.app/"
+    },
+    {
+      "project-image-url": "https://imgs.search.brave.com/LO-SACYIr065C-WGWd5OwLon5bUJB_3Y7NCaZ7Wn-vE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xMTQwMC8xMTQw/MDUwMy5wbmc",
+      "project-name": "Soul-Ott",
+      "project-desc": "React + Tailwind +Css",
+      "project-url" :"https://soul-ott.vercel.app/"
+    },
+    {
+      "project-image-url": "https://imgs.search.brave.com/dAyn4Am5bag96P9c_QEJ7sDSn40jZr5ty6k9n_AH7iI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY4MTAzODg4/N2NoYXRncHQtbG9n/byUyMGJsYWNrLWFu/ZC13aGl0ZS5wbmc",
+      "project-name": "Vbot-assistance",
+      "project-desc": "React + Tailwind ",
+      "project-url" :"https://vbot-assistance.vercel.app/"
+    },
+    {
+      "project-image-url": "https://imgs.search.brave.com/Xlw6AqGx__Dh-SVozicTyUNZA-ZnnfjYWfidbu2hcOE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFFXzhr/M3dOOUkvMS8wLzE2/MDB3L2NhbnZhLWJl/aWdlLWFuZC1vcmFu/Z2UtbWluaW1hbGlz/dC1tb2Rlcm4tc3Rl/YWstLS1sb2dvLW04/R2l1eVg0Mm40Lmpw/Zw",
+      "project-name": "Foodzie",
+      "project-desc": "React + CSS ",
+      "project-url" :"https://foodzie-five.vercel.app/"
+    },
+    {
+      "project-image-url": "https://imgs.search.brave.com/5jV4HsKBCNUyo5HnepHuD4K2UJjVtkyEal3ZZnAANt8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzc1LzQ5/LzRlLzc1NDk0ZWQz/MTA3YjRiZWExMjUz/OTU0OTU1NzliNzM5/LmpwZw",
+      "project-name": "RealEstateHub",
+      "project-desc": "React + CSS ",
+      "project-url" :"https://real-estate-website-enp.pages.dev/"
+    }
+
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://twitter.com/i/flow/login?redirect_after_login=%2FThousifAha22790"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/thousifxahamed"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/ThousifXahamed"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/thousif-ahamed-59263b24b/"
+    }
+  ]
+}
